@@ -1,5 +1,4 @@
 - I am AlexRpq
-- 17 years old
 - He/him
 - I like python and javascript programming
 - E-mail: rpqalexp@gmail.com
