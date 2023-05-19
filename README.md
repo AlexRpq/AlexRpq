@@ -1,4 +1,4 @@
-- I am AlexRpq
+- My name is Alex
 - He/him
 - I like python and javascript programming
 - E-mail: rpqalexp@gmail.com
