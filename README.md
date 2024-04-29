@@ -2,7 +2,7 @@
 - He/him
 - I like python and javascript programming
 - E-mail: rpqalexp@gmail.com
-- Website: alexrpq.com
+- Website: <a href="alexrpq.com" alt="my site">alexrpq.com</a>
 
 <!---
 AlexRpq/AlexRpq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
